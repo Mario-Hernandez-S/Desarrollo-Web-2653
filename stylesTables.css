@@ -1,0 +1,68 @@
+.item{
+    margin-top: 3%;
+}
+.tabla-sencilla{
+    border: 1px solid black;
+    background: white;
+}
+.tabla-sencilla thead th{
+    border: 1px solid black;
+    background: rgb(153, 141, 29);
+    text-align: center;
+}
+.tabla-sencilla tbody td{
+    border: 1px solid rgb(1, 14, 19);
+    font-size: 15px;
+    text-align: center;
+}
+
+.tabla-combinacion-col{
+    border: 1px solid black;
+    background: white;
+}
+.tabla-combinacion-col thead th{
+    border: 1px solid black;
+    background: rgb(18, 140, 170);
+    text-align: center;
+}
+.tabla-combinacion-col tbody td{
+    border: 1px solid rgb(1, 14, 19);
+    font-size: 15px;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+.tabla-combinacion-reng{
+    border: 1px solid black;
+    background: white;
+}
+.tabla-combinacion-reng thead th{
+    border: 1px solid black;
+    background: rgb(216, 124, 19);
+    text-align: center;
+}
+.tabla-combinacion-reng td{
+    border: 1px solid black;
+    background: white;
+    text-align: center;
+}
+.tabla-combinacion-col-y-reng{
+    border: 1px solid black;
+    background: white;
+}
+.tabla-combinacion-col-y-reng thead th{
+    border: 1px solid black;
+    background: rgb(195, 107, 236);
+    text-align: center;
+}
+.tabla-combinacion-col-y-reng td{
+    border: 1px solid black;
+    background: white;
+    text-align: center;
+}
+.tabla-combinacion-col-y-reng thead td{
+    border: 1px solid black;
+    background: rgb(235, 169, 29);
+    text-align: center;
+    padding-top: 3%;
+}
